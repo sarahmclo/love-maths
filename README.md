@@ -1,1 +1,3 @@
-## Walkthrough project for CI
+# Love Maths *Simple maths game*
+
+Walkthrough for CI
